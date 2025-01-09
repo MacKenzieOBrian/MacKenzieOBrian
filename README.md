@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi i'm Mackenzie 👋
 
+[![Mac's GitHub stats](https://github-readme-stats.vercel.app/api?username=MacKenzieOBrian)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **MacKenzieOBrian/MacKenzieOBrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
