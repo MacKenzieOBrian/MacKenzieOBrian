@@ -1,6 +1,6 @@
 ## Hi i'm Mackenzie 👋
 
-[![Mac's stats](https://github-readme-stats.vercel.app/api/wakatime?username=MacKenzieOBrian)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **MacKenzieOBrian/MacKenzieOBrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
