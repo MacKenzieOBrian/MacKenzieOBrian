@@ -1,11 +1,9 @@
 ## Hi i'm Mackenzie 👋
 
 
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
 
 
-class ComputerScience:
+    class ComputerScience:
 
     def __init__(self):
         self.name = "Mackenzie O'Brian"
@@ -16,5 +14,5 @@ class ComputerScience:
         print("Thanks for dropping by.")
 
 
-me = ComputerScience()
-me.say_hi()
+    me = ComputerScience()
+    me.say_hi()
